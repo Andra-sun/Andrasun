@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://github.com/Andra-sun">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansra-sun&layout=compact&langs_count=7&theme=dracula"/></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andra-sun&layout=compact&langs_count=7&theme=dracula"/></a>
 </div>
 <br><br>
 
